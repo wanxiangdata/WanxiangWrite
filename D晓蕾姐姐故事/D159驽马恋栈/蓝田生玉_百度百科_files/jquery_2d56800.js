@@ -1,0 +1,1 @@
+define("wiki-common:widget/lib/jquery/jquery",function(e,i,o){var r=e("wiki-common:widget/lib/jquery/jquery_1.11.1");e("wiki-common:widget/lib/jquery/jquery.mousewheel")(r),o.exports=r});
